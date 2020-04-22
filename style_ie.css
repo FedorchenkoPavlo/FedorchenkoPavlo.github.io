@@ -900,7 +900,7 @@ a:hover .none {
 }
 /*Для отображения placeholder в IE. Без этой срочки - поле placeholder было пустым в IE10*/
 input[type='email'] {
-  height: 2.65em;
+  height: 3.5em;
 }
 
 .plane {
